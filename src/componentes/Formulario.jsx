@@ -4,6 +4,7 @@ const Formulario = () => {
     return <div>
         <h2>RiCero</h2>
         <h3>Disminuye riesgos escolares</h3>
+        <h4>Registrate con tu correo electronico</h4>
         <form>
         <div>
             <label > Nombre de usuario</label>
@@ -16,6 +17,10 @@ const Formulario = () => {
         <div>
             <label>Contraseña </label>
             <input type="password" name="Contraseña" />
+        </div>
+        <div>
+            <label> Login </label>
+            <input type="text" name="Login" />
         </div>
         </form>
     </div>
