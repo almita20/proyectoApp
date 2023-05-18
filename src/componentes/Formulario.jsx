@@ -22,6 +22,14 @@ const Formulario = () => {
             <label> Login </label>
             <input type="text" name="Login" />
         </div>
+        <div>
+            <label > Registrate con Facebook</label>
+            <input type="text" name="Facebok" />
+        </div>
+        <div>
+            <label > Registrate con Google</label>
+            <input type="text" name="Google" />
+        </div>
         </form>
     </div>
 }
