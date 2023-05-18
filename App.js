@@ -1,3 +1,4 @@
+
  import { StatusBar } from 'expo-status-bar';
 import Firebase from './src/utis/Firebase';
 import "firebase/auth";
@@ -21,8 +22,8 @@ const styles = StyleSheet.create({
   },
 }); 
 
+import {Formulario} from`./src/componentes/Formulario`
 
-import {Person} from `./src/componentes/button/Person.test`
 
   function App() {
     return(
@@ -45,5 +46,3 @@ import {Person} from `./src/componentes/button/Person.test`
       
       
     }
-
-    export default App;
