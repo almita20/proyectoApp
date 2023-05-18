@@ -22,6 +22,8 @@ const styles = StyleSheet.create({
   },
 }); 
 
+
+
 import {Formulario} from`./src/componentes/Formulario`
 
 
