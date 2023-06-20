@@ -7,7 +7,9 @@ export function lista(props){
         <option value="planillas">Planillas</option>
         <option value="alertas">Alertas</option>
         <option value="obtener ayuda">Obtener Ayuda</option>
+        <option value="configuracion">Configuracion</option><br>
         
+
         </div>
     )
 }
