@@ -6,7 +6,8 @@ export function lista(props){
         <option value="mis cursos">Mis cursos</option>
         <option value="planillas">Planillas</option>
         <option value="alertas">Alertas</option>
-       
+        <option value="obtener ayuda">Obtener Ayuda</option>
+        
         </div>
     )
 }
