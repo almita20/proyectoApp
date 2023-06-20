@@ -9,7 +9,6 @@ export function planilla(props){
             <th>Asistencia</th>
             </tr>
             </thead>
-
             <tbody>
             <tr>
                         <td>Alumno 1</td>
