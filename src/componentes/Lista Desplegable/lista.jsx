@@ -8,7 +8,8 @@ export function lista(props){
         <option value="alertas">Alertas</option>
         <option value="obtener ayuda">Obtener Ayuda</option>
         <option value="configuracion">Configuracion</option><br>
-        
+        <br>
+       
 
         </div>
     )
