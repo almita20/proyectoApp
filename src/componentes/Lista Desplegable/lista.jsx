@@ -9,7 +9,7 @@ export function lista(props){
         <option value="obtener ayuda">Obtener Ayuda</option>
         <option value="configuracion">Configuracion</option><br>
         <br>
-       
+        <option value="cerrar sesion">Cerrar sesión</option>
 
         </div>
     )
