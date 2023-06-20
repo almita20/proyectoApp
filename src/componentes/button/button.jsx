@@ -1,5 +1,15 @@
 export function Button (props){
-    return 
+    return (
+            <div className="button">
+            <button style={
+                        {
+                            backroundColor: props.bgcolor,
+                        }
+                        }>
+
+            </div>
+
+    )
 
 
 }
