@@ -1,4 +1,5 @@
 import {Button} from './componentes/button/button.jsx';
+import {input} from './componentes/input/input.jsx';
 
 function App(){
     return(
