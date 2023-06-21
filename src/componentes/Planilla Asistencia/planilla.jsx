@@ -24,7 +24,18 @@ export function planilla(props){
                         </td>
                         </tr>
 
-            
+            <tr>
+                        <td>Alumno 3</td>
+                        <td>
+                        <input type="checkbox" name="asistencia[]" value="alumno3">
+                        </td>
+                        </tr>
+
+                        <!--agregar mas filas similares para mas alumnos-->
+                       <>
+
+            </tbody>
+            </table>
             </div>
     )
 }
