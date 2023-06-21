@@ -9,6 +9,14 @@ export function planilla(props){
             <th>Asistencia</th>
             </tr>
             </thead>
+            <tbody>
+            <tr>
+                        <td>Alumno 1</td>
+                        <td>
+                        <input type="checkbox" name="asistencia[]" value="alumno1">
+                        </td>
+                        </tr>
+
             
             </div>
     )
