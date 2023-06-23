@@ -32,7 +32,6 @@ export function planilla(props){
                         </tr>
 
                         <!--agregar mas filas similares para mas alumnos-->
-                       <>
 
             </tbody>
             </table>
