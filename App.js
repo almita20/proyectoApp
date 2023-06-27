@@ -7,7 +7,9 @@ function App(){
     return(
 
     <div className="App">
-
+    <Input placeholder="Nombre Usuario"/>
+    <Input placeholder="Correo electronico"/>
+    <Input placeholder="Contraseña"/>
 
     </div>
     );
