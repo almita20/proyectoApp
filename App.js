@@ -7,10 +7,9 @@ function App(){
     return(
 
     <div className="App">
-    <Input placeholder="Nombre Usuario" id="name" name="nombre"/>
-    <Input placeholder="Correo electronico" id="correo" name="correo electronico"/>
-    <Input placeholder="Contraseña" id="contraseña" name="contraseña"/>
-
+    <Input placeholder="Nombre Usuario" id="name" name="nombre" type="text"/>
+    <Input placeholder="Correo electronico" id="correo" name="correo electronico" type="text"/>
+    <Input placeholder="Contraseña" id="contraseña" name="contraseña" type="password"/>
     </div>
     );
 }
