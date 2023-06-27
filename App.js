@@ -7,8 +7,8 @@ function App(){
     return(
 
     <div className="App">
-    <h1>Ricero</h1>
-        <h2>Disminuye riesgos escolares</h21>
+    <h1>Ricero</h1> //se define aca el titulo porque es la unica vez que se utiliza igual que el h2 y etiqueta P
+        <h2>Disminuye riesgos escolares</h2>
         <p>Registrate con tu correo electronico</p>
 
     <Input placeholder="Nombre Usuario" id="name" name="nombre" type="text"/>
