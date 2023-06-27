@@ -1,4 +1,4 @@
-export function lista(props){
+export function Lista(props){
     return(
         <div className="lista">
         <select name="opciones">
