@@ -1,6 +1,8 @@
 import { useForm } from "react-hook-form";
+import React  from "react";
 
-const Formulario = () => {
+const Formulario {
+    render()
     return <div>
         <h2>RiCero</h2>
         <h3>Disminuye riesgos escolares</h3>
