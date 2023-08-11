@@ -8,4 +8,8 @@ BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
   -moz-osx-font-smoothing: grayscale;
 }
 code {
-  font-family: source-code-pro, Menlo, 
+  font-family: source-code-pro, Menlo,
+  Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+
