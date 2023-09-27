@@ -1,7 +1,11 @@
-export function Input(props){
-    return(
-        <div classname="input">
-        <input classname="registro" type={props.type} id={props.id} name={props.name} placeholder={props.placeholder}>
-        </div>
+import { View } from 'react-native'
+
+export function Input() {
+    return (
+        <View>
+            <form>
+                <input classname="registro" type='text' />
+            </form>
+        </View>
     )
 }
