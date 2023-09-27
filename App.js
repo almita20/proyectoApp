@@ -8,7 +8,7 @@ import { View, Text } from 'react-native';
 function App() {
     return (
         <View>
-            <Text style="margin: 50px 0px 0px 200px">Ricero esto es una prueba+</Text>
+            <Text style="margin: 50px 0px 0px 200px">Ricero esto es una prueba</Text>
         </View>
     );
 }
