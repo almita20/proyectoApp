@@ -16,6 +16,6 @@ export function Button(props) {
 <html>
   <body>
 <button onClick={handcliclk}>Google</button>
-<button onClick={handclick}>Hithub</button>
+<button onClick={handclick}>Github</button>
 </body>
 </html>
