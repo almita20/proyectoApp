@@ -13,3 +13,9 @@ export function Button(props) {
     </div>
   )
 }
+<html>
+  <body>
+<button onClick={handcliclk}>Google</button>
+<button onClick={handclick}>Hithub</button>
+</body>
+</html>
