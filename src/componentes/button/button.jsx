@@ -15,6 +15,8 @@ export function Button(props) {
 }
 <html>
   <body>
+  <button  onClick={handcliclk} id="github-login-button">Iniciar sesión con GitHub</button>
+
 <button onClick={handcliclk}>Google</button>
 <button onClick={handclick}>Github</button>
 </body>
